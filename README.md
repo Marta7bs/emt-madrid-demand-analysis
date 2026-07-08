@@ -82,14 +82,6 @@ The dashboard is divided into two main analytical areas.
 
 <img width="1708" height="960" alt="dashboardActividad3" src="https://github.com/user-attachments/assets/e3f1bf09-f93f-4ea9-bc8a-20cc123bc23d" />
 
-### Temporal Analysis
-
-<img width="778" height="538" alt="image" src="https://github.com/user-attachments/assets/c0bf31b5-333b-4a26-b57d-a0ea2c8ab7d0" />
-
-### Spatial Analysis
-
-<img width="496" height="437" alt="image" src="https://github.com/user-attachments/assets/d6fed52d-e006-4401-9e12-1162bcc1f1c8" />
-
 ### Interactive Demo
 
 <img width="800" height="447" alt="ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/d83af65a-2478-4efd-b6d9-fc2aa8a69631" />
